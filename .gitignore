@@ -1,0 +1,14 @@
+# JetBrains IDE files
+.idea/
+**/.idea/
+
+# Go build output
+/bin/
+*.exe
+*.test
+*.out
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
